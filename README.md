@@ -1,22 +1,24 @@
 # Olá, eu sou Nilson Santiago
 
-<h2>Estudante de Desenvolvimento web</h2>
-<p>Sempre tive curiosidade em saber como a tecnologia funciona e isso me levou a estudar programação.</p>             
-<p>Atualmente estou focado no backend, e futuramente me aventurar em outras areas da programação.</p>
- <h3>No momento estou estudando:</h3>
-        <ul>
-            <li>Javascript</li>
-            <li>NodeJS</li>
-            <li>ExpressJS</li>
-            <li>PostgreSQL</li>
-            <li>MongoDB</li>
-        </ul>
-        <br>
+<p>um programador Java que está embarcando na jornada de aprendizado nesta linguagem incrível. Este é meu espaço no GitHub, onde compartilho meu progresso, projetos e experiências enquanto me aprofundo no vasto universo do Java.</p>             
 
-<div>
-  <a href="https://github.com/vanbastenrx%22%3E">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NilsonSantiago95&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <!--<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilsonSantiago95&layout=compact&langs_count=7&theme=dark"/>-->
-</div>
-  
-  <br>
+ <h3>Sobre Mim</h3>
+ <ul>
+     <li>🌱 Atualmente, estou focado em aprimorar minhas habilidades em Java para desenvolvimento web.</li>
+     <li>💡 Estou sempre explorando novas tecnologias e aprendendo boas práticas de codificação.</li>
+     <li>🌐 Sempre em busca de novos conhecimentos e desafios.</li>
+ </ul>
+
+<h3>Habilidades</h3>
+<ul>
+    <li>Java</li>
+    <li>Git</li>
+    <li>PostgreSQL</li>
+    <li>Javascript</li>
+    <li>HTML</li>
+    <li>CSS</li>
+</ul>
+
+<h3>Contribuições</h3>
+<p>Se você tem sugestões, correções ou melhorias para meus projetos, ficarei feliz em receber contribuições. Basta abrir uma issue ou enviar um pull request.</p>
+<p>Obrigado por visitar meu perfil! Vamos aprender e codificar juntos. 🚀</p>
